@@ -1,1 +1,2 @@
-# tcc__unasp__2022
+# Projeto tcc Unasp 2022
+Website do nosso de projeto de robótica, aonde é apresentado sobre a nossa Horta Automática programada em C++
